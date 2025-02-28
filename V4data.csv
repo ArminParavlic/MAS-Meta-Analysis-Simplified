@@ -1,0 +1,15 @@
+v,id,es,se,CAT_TC,CAT_training_frequency,COV_Intervention_Duration,COV_training_frequency
+1,Cornwall et al,0.961116374,0.221336743,Isometric,<5,1,4
+2,Yue & Cole,0.440997904,0.212258348,Isometric,>=5,2,5
+3,Yue & Cole,0.581206559,0.214072916,Isometric,>=5,7,5
+4,Ben Sidaway  et al,2.06010481,0.607053161,Isometric,<5,4,3
+5,Shackell et al,0.637813594,0.457523723,Isometric,>=5,2,5
+6,Wright  et al,0.064780451,0.474453068,Dynamic,<5,6,2
+7,Wright  et al,0.217578755,0.448425585,Dynamic,<5,6,2
+8,Bahari  et al,1.460548371,0.556389365,Dynamic,>=5,4,5
+9,Ruiter  et al,0.339642369,0.410882035,Isometric,<5,4,3
+10,Ruiter  et al,0.48805908,0.453279054,Isometric,<5,4,3
+11,Darvishi  et al,0.803678103,0.463476299,Isometric,>=5,3,5
+12,Niazi et al,1.050778416,0.388267563,Isometric,>=5,4,5
+13,Reiser et al,0.146606548,0.426931091,Isometric,>=5,4,5
+14,Smith et al,1.149842741,0.535649499,Isometric,<5,4,2
